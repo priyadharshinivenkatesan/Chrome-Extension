@@ -1,0 +1,12 @@
+{
+  "name": "MAXIS CRM",
+  "version": "1.0.0",
+  "description": "Chrome extension for MAXIS CRM ",
+  "manifest_version": 3,
+  "author": "Priyadharshini venkatesan",
+  "action": {
+    "default_popup": "index.html",
+    "default_title": "MAXIS CRM",
+    "default_icon": "icon.png"
+  }
+}

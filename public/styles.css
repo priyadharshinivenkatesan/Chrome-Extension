@@ -1,0 +1,12 @@
+.heading {
+  font-size: 20px;
+  font-family: "Merriweather", serif;
+}
+.dropdown {
+  padding-left: 10px;
+  width: 400px;
+  height: 200px;
+}
+.iconImage {
+  width: 30px;
+}
